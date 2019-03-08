@@ -4,7 +4,10 @@ class TestLogin:
         assert 1
 
     def test_login002(self):
-        assert 0
+        assert 1
 
     def test_login003(self):
         assert 1
+
+    def test_login004(self):
+        assert 0
